@@ -1,8 +1,9 @@
 # DOODLE
 
-Doodle is a hobby project about math art which mostly draws ![Lissajous figures](https://en.wikipedia.org/wiki/Lissajous_curve), I might write a ![blog](https://leo-high-valley.vercel.app/) on this soon.
+Doodle is a hobby project about math art which mostly draws [Lissajous figures](https://en.wikipedia.org/wiki/Lissajous_curve), I might write a [blog](https://leo-high-valley.vercel.app/) on this soon.
 
 https://github.com/user-attachments/assets/62634837-6933-400c-9478-8f4e5f58018f
+
 (MADE USING DOODLE)
 ```c
 theta = (radius) * (cosf(i/2));
