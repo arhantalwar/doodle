@@ -19,6 +19,7 @@ Dependencies
 ### BOOTSTRAP BUILD
 
 You will need to bootstrap the build system for once.
+For more info about [nob.h](https://github.com/tsoding/nob.h/blob/main/nob.h)
 
 ```console
 $ gcc nob.c -o nob
